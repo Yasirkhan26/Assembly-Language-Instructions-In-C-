@@ -1,2 +1,2 @@
 # COAL-LAB-PROJECT
-This repository consists of 4th Semester project for Computer Organization and Assembly Language.It consists of a detailed manual and the subsequent code aswell
+This repository consists of 4th Semester project for Computer Organization and Assembly Language.It consists of a detailed manual and the subsequent code aswell.This has a 4 bit opcode 1 bit addressing mode and 12 bit for addess.However it can process more than 16 instructions when combined with addressing mode bit.The manual is attahced aswell to help understand the design approach and progress.The Simulator is also attached however is isnt functioning properly.
